@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Olá, eu sou Diego Silva
 
-<!--
-**Diego-Silva01/Diego-Silva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend em formação  
+☕ Java | Spring Boot | API REST  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Backend.
+Desenvolvo APIs REST utilizando Java e Spring Boot, aplicando boas práticas
+como separação de camadas, DTOs e tratamento de erros.
+
+---
+
+### 🛠️ Tecnologias
+- Java
+- Spring Boot
+- Spring Data JPA
+- API REST
+- SQL
+- Git & GitHub
+
+---
+
+### 🚀 Projeto em destaque
+🔹 **API de Clientes (Spring Boot)**
+- CRUD completo
+- Controller / Service / Repository
+- DTO e Entity
+- ResponseEntity
+- Status HTTP corretos
+- Tratamento básico de erros
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diegoaff&show_icons=true&theme=dark)
