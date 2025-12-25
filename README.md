@@ -31,3 +31,8 @@ como separação de camadas, DTOs e tratamento de erros.
 - Status HTTP corretos
 - Tratamento básico de erros
 
+---
+
+### 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Silva01&layout=compact&theme=dark)
+
