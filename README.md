@@ -34,4 +34,4 @@ como separação de camadas, DTOs e tratamento de erros.
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diegoaff&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diegoa-Silva01&show_icons=true&theme=dark)
