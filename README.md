@@ -69,7 +69,7 @@ como separação de camadas, DTOs e tratamento de erros.
 ---
 
 ### 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Diego-Silva01&layout=compact&theme=dark)
+Java • Spring Boot • SQL
 
 
 
