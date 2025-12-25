@@ -31,7 +31,3 @@ como separação de camadas, DTOs e tratamento de erros.
 - Status HTTP corretos
 - Tratamento básico de erros
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Diego-Silva01&show_icons=true&theme=dark)
