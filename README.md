@@ -29,7 +29,7 @@ como separação de camadas, DTOs e tratamento de erros.
 - DTO e Entity
 - ResponseEntity
 - Status HTTP corretos
-- Tratamento básico de erros
+- Tratamento de erros
 
 ---
 
