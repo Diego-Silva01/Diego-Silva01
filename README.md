@@ -10,7 +10,7 @@ Tenho interesse em criar soluções simples, bem estruturadas e escaláveis, sem
 🛠️ Skills & Technologies
 <p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,docker" /> </p>
 📊 Performance (GitHub Stats)
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diego-silva01&show_icons=true&theme=tokyonight&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-silva01&layout=compact&theme=tokyonight" /> </p>
 🚀 Projeto em destaque
 🔹 API de Clientes — Spring Boot
 
