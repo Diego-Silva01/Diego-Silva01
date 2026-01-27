@@ -1,47 +1,46 @@
-## 👋 Olá, eu sou Diego Silva
+🧑‍💻 Diego Silva — Backend Developer
+<p align="center"> <b>Java • Spring Boot • API REST • SQL • Git</b> </p>
+👋 Sobre mim
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Backend.
+Desenvolvo APIs REST com Java e Spring Boot, aplicando boas práticas como arquitetura em camadas, DTOs e tratamento centralizado de exceções.
 
-💻 Desenvolvedor Backend em formação  
-☕ Java | Spring Boot | API REST  
+Tenho interesse em criar soluções simples, bem estruturadas e escaláveis, sempre buscando evoluir tecnicamente.
 
+🛠️ Skills & Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,docker" /> </p>
+📊 Performance (GitHub Stats)
+<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight" /> </p>
+🚀 Projeto em destaque
+🔹 API de Clientes — Spring Boot
 
----
+API REST desenvolvida com foco em boas práticas e organização de código.
 
+Principais pontos:
 
-### 🧠 Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Backend.
-Desenvolvo APIs REST utilizando Java e Spring Boot, aplicando boas práticas
-como arquitetura em camadas, uso de DTOs e tratamento de exceções.
+CRUD completo
 
+Arquitetura Controller / Service / Repository
 
----
+DTOs para entrada e saída
 
+Uso de ResponseEntity
 
-### 🛠️ Tecnologias
-- Java
-- Spring Boot
-- Spring Data JPA
-- API REST
-- SQL
-- Git & GitHub
+Status HTTP adequados
 
+Tratamento global de exceções
 
----
+Documentação com Swagger
 
+🗄️ Bancos de dados já utilizados
+Banco	Nível
+MySQL	Intermediário
+PostgreSQL	Intermediário
+MongoDB	Intermediário
+SQLite	Intermediário
+📈 Atividade
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME_AQUI&theme=tokyonight" /> </p>
+📫 Contato
 
-### 🚀 Projeto em destaque
-🔹 **API de Clientes (Spring Boot)**
-- CRUD completo
-- Arquitetura Controller / Service / Repository
-- DTOs para entrada e saída de dados
-- Uso de ResponseEntity
-- Status HTTP adequados
-- Tratamento centralizado de erros
-- Documentação com Swagger
+GitHub: https://github.com/Diego-silva01
 
-
----
-
-
-### 📊 Linguagens mais usadas
-Java • Spring Boot • SQL
