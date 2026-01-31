@@ -34,10 +34,7 @@ Documentação com Swagger
 
 🗄️ Bancos de dados já utilizados
 Banco	Nível
-MySQL	Intermediário
-PostgreSQL	Intermediário
-MongoDB	Intermediário
-SQLite	Intermediário
+MySQL	Basico
 📈 Atividade
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME_AQUI&theme=tokyonight" /> </p>
 📫 Contato
