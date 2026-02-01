@@ -36,7 +36,7 @@ Documentação com Swagger
 Banco	Nível
 MySQL	Basico
 📈 Atividade
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME_AQUI&theme=tokyonight" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego_silva01&theme=tokyonight" /> </p>
 📫 Contato
 
 GitHub: https://github.com/Diego-silva01
