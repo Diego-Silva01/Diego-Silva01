@@ -1,43 +1,51 @@
-🧑‍💻 Diego Silva — Backend Developer
-<p align="center"> <b>Java • Spring Boot • API REST • SQL • Git</b> </p>
-👋 Sobre mim
+# 🧑‍💻 Diego Silva — Backend Developer
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Backend.
-Desenvolvo APIs REST com Java e Spring Boot, aplicando boas práticas como arquitetura em camadas, DTOs e tratamento centralizado de exceções.
+<p align="center">
+  <b>Java • Spring Boot • REST API • SQL • Git</b>
+</p>
 
-Tenho interesse em criar soluções simples, bem estruturadas e escaláveis, sempre buscando evoluir tecnicamente.
+## 👋 Sobre mim
 
-🛠️ Skills & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,docker" /> </p>
-📊 Performance (GitHub Stats)
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diego-silva01&show_icons=true&theme=tokyonight&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-silva01&layout=compact&theme=tokyonight" /> </p>
-🚀 Projeto em destaque
-🔹 API de Clientes — Spring Boot
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Backend.
 
-API REST desenvolvida com foco em boas práticas e organização de código.
+Desenvolvo APIs REST utilizando Java e Spring Boot, aplicando conceitos como arquitetura em camadas, DTOs, validações e tratamento global de exceções.
 
-Principais pontos:
+Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, SQL e desenvolvimento de APIs, buscando evoluir na construção de aplicações bem estruturadas e organizadas.
 
-CRUD completo
+## 🛠️ Skills & Technologies
 
-Arquitetura Controller / Service / Repository
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github" />
+</p>
 
-DTOs para entrada e saída
+**Backend:** Java, Spring Boot, REST API  
+**Banco de Dados:** MySQL, PostgreSQL  
+**Ferramentas:** Git, GitHub, Postman, Swagger/OpenAPI
 
-Uso de ResponseEntity
+## 🚀 Projeto em destaque
 
-Status HTTP adequados
+### 🔹 API de Clientes — Spring Boot
 
-Tratamento global de exceções
+API REST desenvolvida para gerenciamento de clientes, com foco em organização de código e boas práticas.
 
-Documentação com Swagger
+**Principais funcionalidades:**
 
-🗄️ Bancos de dados já utilizados
-Banco	Nível
-MySQL	Basico
-📈 Atividade
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego_silva01&theme=tokyonight" /> </p>
-📫 Contato
+- CRUD completo
+- Arquitetura em camadas (Controller / Service / Repository)
+- DTOs para entrada e saída de dados
+- Validações
+- Tratamento global de exceções
+- Uso adequado de status HTTP
+- Documentação com Swagger/OpenAPI
 
-GitHub: https://github.com/Diego-silva01
+## 🗄️ Banco de Dados
 
+| Banco | Nível |
+|---|---|
+| MySQL | Básico |
+| PostgreSQL | Em desenvolvimento |
+
+## 📫 Contato
+
+- **GitHub:** Diego-Silva01
+- **LinkedIn:** Diego Silva
